@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I am Front End developer.
+## I am a Front End developer
 
 *   🌍  I'm based out of Georgia/Florida, USA
 *   👯  I'm looking to collaborating on interesting AI projects
