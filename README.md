@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ## I am a Front End developer
 
 *   🌍  I'm based out of Georgia/Florida, USA
-*   👯  I'm looking to collaborating on interesting AI projects
+*   👯  I'm looking to collaborate on interesting AI projects
 *   🌱  Currently learning Next.js
 *   ⚡  Fun fact: I love playing and collecting retro video games and memorabelia
 
