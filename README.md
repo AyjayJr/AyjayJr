@@ -2,7 +2,7 @@
 
 <h3 align="center">A passionate frontend developer</h3>
 
-*   🌍  I'm based out of Georgia/Florida, USA
+*   🌍  Currently residing in Georgia, USA. Soon to be Florida, USA.
 *   👯  I'm looking to collaborate on interesting AI projects
 *   🌱  Currently learning Next.js
 *   ⚡  Fun fact: I love playing and collecting retro video games and memorabelia
