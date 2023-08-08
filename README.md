@@ -5,6 +5,7 @@
 *   🌍  Currently residing in Georgia, USA. Soon to be Florida, USA.
 *   👯  I'm looking to collaborate on interesting AI projects
 *   🌱  Currently learning Next.js
+*   🧠  Extremely interested in learning more about low level systems programming
 *   ⚡  Fun fact: I love playing and collecting retro video games and memorabelia
 
 ### Skills
