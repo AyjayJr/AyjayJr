@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anthony Garcia Jr.</h1>
 
-<h3 align="center">A passionate fullstack developer</h3>
+<h3 align="center">an aspiring Software Engineer</h3>
 
 *   🌍  Currently residing in Georgia, USA. Soon to be Florida, USA.
 *   👯  I'm looking to collaborate on interesting AI projects
