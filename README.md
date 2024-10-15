@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anthony Garcia Jr.</h1>
 
-<h3 align="center">an aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-*   🌍  Currently residing in Georgia, USA. Soon to be Florida, USA.
+*   🌍  Currently residing in Florida, USA
 *   👯  I'm looking to collaborate on interesting AI projects
 *   🌱  Currently learning Next.js
 *   🧠  Extremely interested in learning more about low level systems programming
