@@ -3,9 +3,9 @@
 <h3 align="center">Software Engineer</h3>
 
 *   🌍  Currently residing in Florida, USA
-*   👯  I'm looking to collaborate on interesting AI projects
-*   🌱  Currently learning Next.js
-*   🧠  Extremely interested in learning more about low level systems programming
+*   🌱  Currently learning C++
+*   📚  Brushing up on my maths
+*   🧠  Interested in learning more about low level systems programming
 *   ⚡  Fun fact: I love playing and collecting retro video games and memorabelia
 
 ### Skills
