@@ -4,7 +4,7 @@
 
 *   🌍  Currently residing in Florida, USA
 *   🌱  Planting seeds for a strong foundation of knowledge
-*   📚  Working through eloquentJS to solidify my fundamentals
+*   📚  Working through EloquentJS to solidify my fundamentals
 *   🧠  Planning to read about Operating Systems and Networking fundamentals
 *   ⚡  Fun fact: I love CRTs and retro tech!
 
