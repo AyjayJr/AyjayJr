@@ -3,10 +3,10 @@
 <h3 align="center">Software Engineer</h3>
 
 *   🌍  Currently residing in Florida, USA
-*   🌱  Currently learning C++
-*   📚  Brushing up on my maths
-*   🧠  Interested in learning more about low level systems programming
-*   ⚡  Fun fact: I love playing and collecting retro video games and memorabelia
+*   🌱  Planting seeds for a strong foundation of knowledge
+*   📚  Working through eloquentJS to solidify my fundamentals
+*   🧠  Planning to read about Operating Systems and Networking fundamentals
+*   ⚡  Fun fact: I love CRTs and retro tech!
 
 ### Skills
 
