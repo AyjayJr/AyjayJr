@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Anthony Garcia Jr.</h1>
+<h1 align="center">Hi 👋, I'm Anthony Jr.</h1>
 
-<h3 align="center">Programmer</h3>
+<h3 align="center">Software Developer</h3>
 
 *   🌍  Currently residing in Florida, USA
 *   🌱  Planting seeds for a strong foundation of knowledge
