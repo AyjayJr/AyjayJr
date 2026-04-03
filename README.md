@@ -2,8 +2,7 @@
 
 <h3 align="center">Software Developer</h3>
 
-*   🌍  Currently residing in Florida, USA
-*   🌱  Planting seeds for a strong foundation of knowledge
+*   🌱  Learning about networking through building a pi server
 *   📚  Working through EloquentJS to solidify my fundamentals
-*   🧠  Planning to read about Operating Systems and Networking fundamentals
+*   🧠  Endlessly curious about math and science
 *   ⚡  Fun fact: I love CRTs and retro tech!
